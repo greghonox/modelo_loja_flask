@@ -1,0 +1,4 @@
+[!!!]  2020-04-17 13:53:51,281 -- INICIANDO SCRIPT --- https://pje.tjmg.jus.br/pje/ConsultaPublica/listView.seam PARA O PROCESSO: 5000004-64.2018.8.13.0686 --- (1234) -- WARNING [!!!]
+[!!!]  2020-04-17 13:53:51,281 -- -- <function ScrapPai.print at 0x037CD5C8> -- (ERRO EM CRIAR A PASTAS ([WinError 183] Não é possível criar um arquivo já existente: 'c:\\Users\\Gregorio\\Documents\\TRABALHOS\\PROJETOS\\TJ\\respostas\\1234\\500000464_2018_8_13_0686')) -- WARNING [!!!]
+[!!!]  2020-04-17 13:53:51,281 -- -- <function ScrapPai.criar_pasta at 0x037CD2F8> -- (CRIADO A PASTA c:\Users\Gregorio\Documents\TRABALHOS\PROJETOS\TJ\respostas\1234\500000464_2018_8_13_0686 COM SUCESSO!) -- WARNING [!!!]
+[!!!]  2020-04-17 13:53:51,281 -- -- <function ScrapPai.salvar_json at 0x037CD4A8> -- (JSON GERADO EM c:\Users\Gregorio\Documents\TRABALHOS\PROJETOS\TJ\respostas\1234\500000464_2018_8_13_0686\result.json COM SUCESSO!) -- WARNING [!!!]
